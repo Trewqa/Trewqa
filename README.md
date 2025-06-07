@@ -2,7 +2,7 @@
 
 ¡Hola! Soy **Roberto Cid**. Soy **desarrollador Full Stack** de Talavera de la Reina, España.
 
-Tengo +5 años de experiencia en el sector, especializado en el desarrollo de automatizaciones.
+Tengo +6 años de experiencia en el sector, especializado en el desarrollo de automatizaciones.
 
 Actualmente estoy trabajando como **Analista Senior** para 🟧 Orange España en ViewNext.
 
